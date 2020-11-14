@@ -176,7 +176,7 @@ def down(B=board):
                     i+=1
             i-=1
 
-for i in range(500):
+for i in range(500):  #here we take the max expanding depth of 500
     print('trial',i+1)
     if not pl:
         break
