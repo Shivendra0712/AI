@@ -1,5 +1,7 @@
 """
-Applications of N-Queens
+This is the Brach and Bound Solution
+
+Other Applications of N-Queens
 These are given below:
 1. VLSI Testing.
 2. Traffic control.
