@@ -1,3 +1,16 @@
+"""
+Applications of N-Queens
+These are given below:
+1. VLSI Testing.
+2. Traffic control.
+3. Deadlock Prevention.
+4. Image Processing.
+5. Motion Estimation.
+6. Register Allocation. 
+
+"""
+
+
 def leftDiag(B,a,b):
     inval=False
     for i in range(1,n):
